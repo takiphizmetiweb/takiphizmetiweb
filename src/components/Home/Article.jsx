@@ -36,7 +36,7 @@ const Article = () => {
                             <img src={Spotify} className="w-[70px] mx-8" alt="Spotify" />
                             <img src={Twitch} className="w-[70px] mx-8" alt="Twitch" />
                             <img src={Tiktok} className="w-[70px] mx-8" alt="Tiktok" />
-                            <img src={Twitter} className="w-[70px] mx-8 invert" alt="Twitter" />
+                            <img src={Twitter} className="w-[70px] mx-8" alt="Twitter" />
                             <img src={Telegram} className="w-[70px] mx-8" alt="Telegram" />
                             <img src={Youtube} className="w-[70px] mx-8" alt="Youtube" />
                     </Marquee>

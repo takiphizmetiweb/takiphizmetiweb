@@ -35,10 +35,12 @@
 
 .inter-600{
     font-family: "Inter-Bold";
+    font-weight: 600;
 }
 
 .roboto-600{
     font-family: "Roboto-Bold";
+    font-weight: 600;
 }
 
 .bg-theme-gray{
