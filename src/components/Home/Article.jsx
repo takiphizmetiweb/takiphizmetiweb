@@ -17,7 +17,7 @@ const Article = () => {
             <div className="flex h-spec-screen-1 justify-center items-center w-full">
                 <div className="flex flex-col justify-center  items-center me-12 gap-0 w-1/2">
                     <div className="flex flex-col me-12">
-                        <p className="inter-600 text-7xl"><span className="text-red-500">Takip Hizmeti </span>ile</p>
+                        <p className="inter-600 font-bold text-7xl"><span className="text-red-500">Takip Hizmeti </span>ile</p>
                         <p className="inter-600 font-bold text-[100px] leading-[100px]">HESABINIZI</p>
                         <p className="inter-600 font-bold text-[110px] text-red-500 leading-[125px]">BÜYÜTÜN!</p>
                         <div className="flex gap-8">

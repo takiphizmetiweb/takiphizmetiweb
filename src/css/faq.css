@@ -1,0 +1,11 @@
+.szh-accordion__item{
+    background-color: #545454;
+    color: white;
+    padding: 15px;
+    font-size: 35px;
+    font-family: "Inter";
+    border-radius: 8px;
+    margin-bottom: 12px;
+    width: 700px;
+    text-align: center;
+}
