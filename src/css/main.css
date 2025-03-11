@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+
+@font-face{
+    font-family: "Garet";
+    src: url('src/fonts/Garet-Book.woff2') format("woff2");
+    font-display: swap;
+}
+
+@font-face{
+    font-family: "Inter";
+    src: url("src/fonts/Inter-Regular.woff2") format("woff2");
+    font-display: swap;
+}
+
+@font-face{
+    font-family: "Inter-Bold";
+    src: url("src/fonts/Inter-Bold.woff2") format("woff2");
+    font-display: swap;
+}
+
+@font-face{
+    font-family: "Roboto-Bold";
+    src: url("src/fonts/Roboto-Bold.ttf") format("TrueType");
+    font-display: swap;
+}
+
+.garet-500{
+    font-family: "Garet";
+}
+
+.inter-500{
+    font-family: "Inter";
+}
+
+.inter-600{
+    font-family: "Inter-Bold";
+}
+
+.roboto-600{
+    font-family: "Roboto-Bold";
+}
+
+.bg-theme-gray{
+    background-color: #545454;
+}
