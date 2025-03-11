@@ -18,8 +18,8 @@ const Article = () => {
                 <div className="flex flex-col justify-center  items-center me-12 gap-0 w-1/2">
                     <div className="flex flex-col me-12">
                         <p className="inter-600 text-7xl"><span className="text-red-500">Takip Hizmeti </span>ile</p>
-                        <p className="inter-600 text-[100px] leading-[100px]">HESABINIZI</p>
-                        <p className="inter-600 text-[110px] text-red-500 leading-[125px]">BÜYÜTÜN!</p>
+                        <p className="inter-600 fw-bold text-[100px] leading-[100px]">HESABINIZI</p>
+                        <p className="inter-600 fw-bold text-[110px] text-red-500 leading-[125px]">BÜYÜTÜN!</p>
                         <div className="flex gap-8">
                             <button className="bg-red-500 roboto-600 text-white w-[200px] mt-6 text-center py-3 rounded-lg text-2xl">Satın Al</button>
                             <button className="bg-red-500 roboto-600 text-white w-[200px] mt-6 text-center py-3 rounded-lg text-2xl">Bilgi Al</button>
