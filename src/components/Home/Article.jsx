@@ -17,12 +17,12 @@ const Article = () => {
             <div className="flex xl:flex-row flex-col h-spec-screen-1 justify-center items-center w-full">
                 <div className="flex flex-col justify-center  items-center xl:me-12 gap-0 w-1/2">
                     <div className="flex flex-col xl:items-start items-center xl:me-12">
-                        <p className="inter-600 font-bold text-3xl 2xl:text-7xl"><span className="text-red-500">Takip Hizmeti </span>ile</p>
+                        <p className="inter-600 font-bold font-bold text-3xl 2xl:text-7xl"><span className="text-red-500">Takip Hizmeti </span>ile</p>
                         <p className="inter-600 font-bold text-[42px]  2xl:text-[100px] 2xl:leading-[100px]">HESABINIZI</p>
                         <p className="inter-600 font-bold text-[45px] leading-[40px]  2xl:text-[110px] text-red-500 2xl:leading-[125px]">BÜYÜTÜN!</p>
                         <div className="flex gap-8">
-                            <button className="bg-red-500 roboto-600 text-white w-[125px] sm:w-[200px] mt-6 text-center py-3 rounded-lg text-xl sm:text-2xl">Satın Al</button>
-                            <button className="bg-red-500 roboto-600 text-white w-[125px] sm:w-[200px] mt-6 text-center py-3 rounded-lg text-xl sm:text-2xl">Bilgi Al</button>
+                            <button className="bg-red-500 font-bold roboto-600 text-white w-[125px] sm:w-[200px] mt-6 text-center py-3 rounded-lg text-xl sm:text-2xl">Satın Al</button>
+                            <button className="bg-red-500 font-bold roboto-600 text-white w-[125px] sm:w-[200px] mt-6 text-center py-3 rounded-lg text-xl sm:text-2xl">Bilgi Al</button>
                         </div>
                     </div>
                     

@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="flex flex-col">
             <div className="flex gap-42 lg:ps-24 w-full lg:flex-row flex-col lg:items-start items-center flex-wrap">
                 <div className="flex flex-col lg:items-start items-center">
-                    <p className="roboto-600 text-bold text-4xl">Sayfalarımız</p>
+                    <p className="roboto-600 font-bold text-3xl lg:text-4xl">Sayfalarımız</p>
                     <ul className="list-disc mt-5 ms-5">
                         <li className="mt-5 lg:mt-3">
                             <a href="#" className="inter-500 text-2xl lg:text-xl">Anasayfa</a>
@@ -24,7 +24,7 @@ const Footer = () => {
                     </ul>
                 </div>
                 <div className="flex flex-col lg:items-start items-center">
-                    <p className="roboto-600 text-bold text-4xl">Hizmetlerimiz</p>
+                    <p className="roboto-600 font-bold text-3xl lg:text-4xl">Hizmetlerimiz</p>
                     <ul className="list-disc mt-5 ms-5">
                         <li className="mt-5 lg:mt-3">
                             <a href="#" className="inter-500 text-2xl lg:text-xl">Instagram</a>
@@ -56,7 +56,7 @@ const Footer = () => {
                     </ul>
                 </div>
                 <div className="flex flex-col lg:items-start items-center">
-                    <p className="roboto-600 text-bold text-4xl">Hakkımızda</p>
+                    <p className="roboto-600 font-bold text-3xl lg:text-4xl">Hakkımızda</p>
                     <ul className="list-disc mt-5 ms-5">
                         <li className="mt-5 lg:mt-3">
                             <a href="#" className="inter-500 text-2xl lg:text-xl">Hakkımızda</a>
@@ -73,7 +73,7 @@ const Footer = () => {
                     </ul>
                 </div>
                 <div className="flex flex-col lg:items-start items-center">
-                    <p className="roboto-600 text-bold text-4xl">Ödeme ve Sistem</p>
+                    <p className="roboto-600 font-bold text-3xl lg:text-4xl">Ödeme ve Sistem</p>
                     <ul className="list-disc mt-5 ms-5">
                         <li className="mt-5 lg:mt-3">
                             <a href="#" className="inter-500 text-2xl lg:text-xl">Sipariş şartları</a>
