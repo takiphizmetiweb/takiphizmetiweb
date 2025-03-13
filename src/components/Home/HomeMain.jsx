@@ -13,7 +13,7 @@ const HomeMain = () => {
             <Info /> 
             <Comments />
             <Faq />
-            <Footer/ >
+            <Footer />
         </>
     )
 }

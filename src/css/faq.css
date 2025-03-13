@@ -8,11 +8,34 @@
     margin-bottom: 12px;
     width: 700px;
     text-align: center;
+    outline: 0px;
 }
 
 
 .szh-accordion__item-content{
     transition: height 0.25s cubic-bezier(0, 0, 0, 1);
+}
+
+.szh-accordion__item-btn{
+    font-size: 35px;
+}
+
+.szh-accordion__item-panel{
+    font-size: 35px;
+}
+
+@media (max-width:1024px) {
+    .szh-accordion__item-btn{
+        font-size: 25px;
+    }
+
+    .szh-accordion__item{
+        width: 100%;
+    }
+
+    .szh-accordion__item-panel{
+        font-size: 20px;
+    }
 }
 
 
