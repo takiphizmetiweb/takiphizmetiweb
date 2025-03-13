@@ -27,7 +27,7 @@ const Article = () => {
                     </div>
                     
                 </div>
-                <div className="bg-theme-gray p-4 rounded-4xl xl:rounded-s-4xl lg:mx-0 mx-12 sm:max-w-auto max-w-[98vw] sm:w-1/2 xl:mt-0 mt-12">
+                <div className="bg-theme-gray p-4 rounded-2-rem-spec lg:mx-0 mx-12 sm:max-w-auto max-w-[98vw] sm:w-1/2 xl:mt-0 mt-12">
                     <Marquee >
                             <img src={Instagram} className="w-[35px] sm:w-[70px] mx-8" alt="Instagram" />
                             <img src={Discord} className="w-[35px] sm:w-[70px] mx-8" alt="Discord" />

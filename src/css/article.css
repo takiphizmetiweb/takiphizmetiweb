@@ -1,3 +1,17 @@
 .h-spec-screen-1{
     height: calc(100vh - 102px);
 }
+
+.rounded-2-rem-spec{
+    border-top-left-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+}
+
+@media (max-width:1280px) {
+    .rounded-2-rem-spec{
+        border-top-left-radius: 2rem;
+        border-bottom-left-radius: 2rem;
+        border-top-right-radius: 2rem;
+        border-bottom-right-radius: 2rem;
+    }
+}
